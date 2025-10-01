@@ -1,5 +1,8 @@
 # Meta Video
 
+![Meta Video Logo](https://via.placeholder.com/150)  
+*Meet Vee, the Husky mascot and face of Meta Video! 🐾*
+
 Meta Video is your all-in-one video watching platform. Enjoy cross-platform, high-quality content from sites such as YouTube and many others.
 
 ---
@@ -7,21 +10,31 @@ Meta Video is your all-in-one video watching platform. Enjoy cross-platform, hig
 ## Features
 
 - **Beautiful UI** – A clean, modern, and responsive interface for a seamless experience.  
-- **Ad-Free Video** – Watch videos without interruptions. Watch from accross all your favourite platforms!  
+- **Ad-Free Video** – Watch videos without interruptions. Watch accross all platforms AMAZING videos
 - **Cross-Platform** – Works on desktop and mobile devices.  
-- **Open Source** – Fully open source and community-driven.
+- **Open Source** – Fully open source and community-driven.  
+- **Mascot Vee** – The husky that represents Meta Video, bringing personality and fun to the platform! 🐶
+
+---
+
+## Mascot Spotlight: Vee 🐾
+
+Vee is a friendly husky and the face of Meta Video.  
+Whether guiding users or just adding charm to the platform, Vee embodies the spirit of a fun, user-friendly, and reliable video experience.
 
 ---
 
 ## License
 
-Meta Video is distributed under the **Nayvori License 1.0**. See the [LICENSE](https://nayvori.netlify.app/license) file for more details.
+Meta Video is distributed under the **Nayvori License 1.0**.  
+See the [LICENSE](https://nayvori.netlify.app/license) file for more details.
 
 ---
 
 ## Contributing
 
-Contributions, suggestions, and bug reports are welcome! Feel free to fork the repository and submit pull requests.
+Contributions, suggestions, and bug reports are welcome!  
+Feel free to fork the repository and submit pull requests.
 
 ---
 
