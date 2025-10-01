@@ -1,6 +1,6 @@
 # Meta Video
 
-![Meta Video Logo](https://via.placeholder.com/150)  
+![Meta Video Logo](https://westilldonthavealogo.com)  
 *Meet Vee, the Husky mascot and face of Meta Video! 🐾*
 
 Meta Video is your all-in-one video watching platform. Enjoy cross-platform, high-quality content from sites such as YouTube and many others.
