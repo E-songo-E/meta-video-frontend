@@ -10,7 +10,7 @@ Meta Video is your all-in-one video watching platform. Enjoy cross-platform, hig
 ## Features
 
 - **Beautiful UI** – A clean, modern, and responsive interface for a seamless experience.  
-- **Ad-Free Video** – Watch videos without interruptions. Watch accross all platforms AMAZING videos
+- **Ad-Free Video** – Watch videos without interruptions. Enjoy amazing content across all platforms.  
 - **Cross-Platform** – Works on desktop and mobile devices.  
 - **Open Source** – Fully open source and community-driven.  
 - **Mascot Vee** – The husky that represents Meta Video, bringing personality and fun to the platform! 🐶
